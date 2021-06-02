@@ -1,0 +1,18 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=AyudasES.chm
+Contents file=AyudaES.hhc
+Default Window=AyudasES
+Display compile progress=No
+Language=0xc0a Español (España, internacional)
+
+[WINDOWS]
+AyudasES="Ayuda Para los Mantenimiento Empresa y Sucursal","AyudaES.hhc",,,,,,,,0x23520,,0xc387e,,,,,,,,0
+
+
+[FILES]
+..\AyudaEmpresa.html
+..\AyudaSucursal.html
+
+[INFOTYPES]
+
