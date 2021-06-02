@@ -1,0 +1,24 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=MSantizo.chm
+Contents file=MSantizo.hhc
+Default Window=Ayudas
+Default topic=AyudaCliente.html
+Display compile progress=No
+Language=0x100a Español (Guatemala)
+
+[WINDOWS]
+Ayudas=,"MSantizo.hhc",,"AyudaCliente.html","AyudaProveedor.html",,,,,0x2120,,0x3006,,,,,,,,0
+
+
+[FILES]
+AyudaCliente.html
+AyudaDepartamento.html
+AyudaLineaProducto.html
+AyudaMarcaProducto.html
+AyudaMunicipalidad.html
+AyudaPais.html
+AyudaProveedor.html
+
+[INFOTYPES]
+
