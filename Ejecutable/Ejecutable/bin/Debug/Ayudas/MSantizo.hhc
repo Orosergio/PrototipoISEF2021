@@ -1,0 +1,40 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Ayuda Proveedor">
+		<param name="Local" value="AyudaProveedor.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Ayuda Pais">
+		<param name="Local" value="AyudaPais.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Ayuda Municipalidad">
+		<param name="Local" value="AyudaMunicipalidad.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Ayuda Marca Producto">
+		<param name="Local" value="AyudaMarcaProducto.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Linea Producto">
+		<param name="Local" value="AyudaLineaProducto.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Ayuda Departamento">
+		<param name="Local" value="AyudaDepartamento.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Ayuda Cliente">
+		<param name="Local" value="AyudaCliente.html">
+		</OBJECT>
+</UL>
+</BODY></HTML>

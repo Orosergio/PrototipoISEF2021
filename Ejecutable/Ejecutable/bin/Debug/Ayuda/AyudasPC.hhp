@@ -1,0 +1,21 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=AyudasPC.chm
+Contents file=AyudaPC.hhc
+Default Window=AyudaProcesoCompras
+Display compile progress=No
+Language=0xc0a Español (España, internacional)
+
+[WINDOWS]
+AyudaProcesoCompras="Ayudas Del Proceso de Compras","AyudaPC.hhc",,"AyudaProcesoCompras.html","AyudaProcesoCompras.html",,,,,0x23520,,0x3046,,,,,,,,0
+
+
+[FILES]
+AyudaEstadoDeCompra_1.html
+Ayuda-GuardarEnExistencia_1.html
+AyudaImpresionOrdeCompra_1.html
+AyudaOrdenes_1.html
+AyudaProcesoCompras.html
+
+[INFOTYPES]
+
