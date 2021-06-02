@@ -1,0 +1,18 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=MProducto.chm
+Contents file=MProducto.hhc
+Default Window=Ayuda
+Default topic=Mantenimiento Producto.html
+Display compile progress=No
+Language=0x100a Español (Guatemala)
+
+[WINDOWS]
+Ayuda=,"MProducto.hhc",,"Mantenimiento Producto.html","Mantenimiento Producto.html",,,,,0x2120,,0x3006,,,,,,,,0
+
+
+[FILES]
+Mantenimiento Producto.html
+
+[INFOTYPES]
+
